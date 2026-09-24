@@ -29,6 +29,3 @@
 
 -   💬 If you have an interesting project or idea, feel free to reach
     out!
-
--   🛠️ Building things, breaking things, fixing them, and calling it
-    "learning."
