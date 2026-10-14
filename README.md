@@ -63,7 +63,7 @@ I'm interested in building practical systems around **cybersecurity, computer ne
 * 🐍 **C/C++, Python & Backend Development**
 
 
-
+## 📈 Activity
 <!-- GENERATED_STATS_START -->
 <p align="center">
   <img src="./assets/stats.svg" width="49%" alt="365-day contribution summary">
