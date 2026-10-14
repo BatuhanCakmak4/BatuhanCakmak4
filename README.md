@@ -64,3 +64,16 @@ I'm interested in building practical systems around **cybersecurity, computer ne
 
 
 
+<!-- GENERATED_STATS_START -->
+<p align="center">
+  <img src="./assets/stats.svg" width="49%" alt="365-day contribution summary">
+  <img src="./assets/streak.svg" width="49%" alt="Contribution streaks">
+</p>
+<p align="center">
+  <img src="./assets/langs.svg" width="49%" alt="Top public repository languages">
+  <img src="./assets/year.svg" width="49%" alt="One character per day yearly activity">
+</p>
+<!-- GENERATED_STATS_END -->
+
+
+
