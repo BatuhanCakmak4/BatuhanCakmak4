@@ -3,8 +3,6 @@
   <h1>Hi, I'm Batuhan Çakmak 👋</h1>
 </div>
 
----
-
 
 <img src="https://raw.githubusercontent.com/BatuhanCakmak4/BatuhanCakmak4/main/assets/ascii.svg" align="right" width="220" alt="ASCII Art" />
 
