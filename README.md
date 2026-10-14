@@ -36,4 +36,3 @@ Learning more about **cybersecurity, Linux, networking, and practical system des
 
 ---
 
-[GitHub](https://github.com/BatuhanCakmak4)
