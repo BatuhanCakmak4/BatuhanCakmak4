@@ -1,6 +1,5 @@
-<!-- Profile Header & Avatar Area -->
+<!-- Profile Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BatuhanCakmak4/BatuhanCakmak4/main/assets/portrait-ascii.svg" width="160" alt="Batuhan Çakmak Portrait" />
   <h1>Hi, I'm Batuhan Çakmak 👋</h1>
   <p><b>Computer Engineering Student @ Kadir Has University</b></p>
   
@@ -14,7 +13,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/BatuhanCakmak4/BatuhanCakmak4/main/assets/heading-about.svg" alt="About Me" height="30">
+## 🚀 About Me
 
 <img src="https://raw.githubusercontent.com/BatuhanCakmak4/BatuhanCakmak4/main/assets/ascii.svg" align="right" width="220" alt="ASCII Art" />
 
@@ -32,40 +31,30 @@ I'm interested in building practical systems around **cybersecurity, computer ne
 
 ---
 
-## <img src="https://raw.githubusercontent.com/BatuhanCakmak4/BatuhanCakmak4/main/assets/heading-focus.svg" alt="Tech Stack & Tools" height="30">
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+### 💻 Languages & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" alt="Languages" />
+</p>
 
-### ⚙️ Systems & Tools
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+### ⚙️ Systems, Tools & Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,raspberrypi,git,github,flask,postman,wireshark" alt="Systems and Tools" />
+</p>
 
-### 🌐 Networking & Security Tools
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=network&logoColor=white" />
-<img src="https://img.shields.io/badge/VLAN-%23007ACC?style=for-the-badge&logo=cache&logoColor=white" />
-<img src="https://img.shields.io/badge/DHCP-%23FF6F00?style=for-the-badge&logo=server&logoColor=white" />
-<img src="https://img.shields.io/badge/DNS-%234CAF50?style=for-the-badge&logo=domain&logoColor=white" />
-<img src="https://img.shields.io/badge/SSH-121011?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
+### 🌐 Networking & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=cisco,bash,vim" alt="Networking Tools" />
+</p>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/BatuhanCakmak4/BatuhanCakmak4/main/assets/heading-projects.svg" alt="Featured Projects" height="30">
+## ⚡ Featured Projects
 
 ### 1. 🪞 Raspberry Pi Smart Mirror
 A smart mirror project built around a **Raspberry Pi 3** and a 24-inch monitor.
