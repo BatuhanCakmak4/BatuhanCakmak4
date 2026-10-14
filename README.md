@@ -7,8 +7,6 @@ I like learning by building things, breaking them, fixing them, and figuring out
 
 Currently improving my skills in Python, C, C++, JavaScript, Linux, and networking while working on hands-on projects that mix software, hardware, and infrastructure
 
-## Contact Me
-<p><a href="https://www.linkedin.com/in/batuhan-cakmak4/?isSelfProfile=true" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 
 ## Skills
 
@@ -21,7 +19,12 @@ Currently improving my skills in Python, C, C++, JavaScript, Linux, and networki
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>&nbsp;
+          
+          
+          
 </p>
 
 ## Projects
@@ -42,11 +45,4 @@ HAN37 is a personal full-stack web application that combines productivity tools 
 
 ---
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=BatuhanCakmak4&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanCakmak4&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BatuhanCakmak4&theme=dark" alt="GitHub Streak" />
 
