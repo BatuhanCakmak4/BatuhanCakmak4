@@ -2,22 +2,15 @@
 <div align="center">
   <h1>Hi, I'm Batuhan Çakmak 👋</h1>
   <p><b>Computer Engineering Student @ Kadir Has University</b></p>
-  
-  <p>
-    <a href="https://github.com/BatuhanCakmak4"><img src="https://img.shields.io/badge/GitHub-BatuhanCakmak4-181717?style=flat-square&logo=github" alt="GitHub"></a>
-    <a href="https://www.linkedin.com/in/batuhan-cakmak4/"><img src="https://img.shields.io/badge/LinkedIn-Batuhan%20Çakmak-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  </p>
 </div>
 
 <br>
 
 ---
 
-## 🚀 About Me
 
 <img src="https://raw.githubusercontent.com/BatuhanCakmak4/BatuhanCakmak4/main/assets/ascii.svg" align="right" width="220" alt="ASCII Art" />
 
-Computer Engineering student at **Kadir Has University**.
 
 I'm interested in building practical systems around **cybersecurity, computer networks, Raspberry Pi, IoT and software development**. I enjoy learning by creating projects that combine software with real hardware and network infrastructure.
 
