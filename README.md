@@ -64,25 +64,6 @@ I'm interested in building practical systems around **cybersecurity, computer ne
 
 ---
 
-## ⚡ Featured Projects
-
-### 1. 🪞 Raspberry Pi Smart Mirror
-A smart mirror project built around a **Raspberry Pi 3** and a 24-inch monitor.
-* **Features:** Dynamic time-based greetings, live clock/date, weather, Spotify currently-playing integration, calendar, indoor temp/humidity sensors, presence detection, automatic monitor wake/sleep, LED backlighting, and a Flask-based dashboard.
-* **Tech Stack:** `Python` `Flask` `JavaScript` `Raspberry Pi` `IoT`
-
-### 2. 🔌 Physical Raspberry Pi Network Lab
-A physical networking lab designed to practice real enterprise networking concepts.
-* **Includes:** Aruba 2930F Layer 3 switch, multiple Raspberry Pi nodes, VLAN segmentation, inter-VLAN routing, DHCP/DNS server, Nginx web server, SSH management, and real client testing.
-* **Tech Stack:** `Networking` `Linux` `Raspberry Pi` `VLAN` `DHCP` `DNS`
-
-### 3. 🏢 Enterprise Network Lab
-A Packet Tracer project created to practice enterprise network design and configuration.
-* **Topics Covered:** VLANs, DHCP, DNS, static routing, OSPF, ACLs, SSH management, and network segmentation.
-* **Tech Stack:** `Cisco Packet Tracer` `Networking` `Routing` `ACL`
-
----
-
 ## 🎯 Areas of Interest & Currently Learning
 
 * 🔒 **Cybersecurity & Network Security**
