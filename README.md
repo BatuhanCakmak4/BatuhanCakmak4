@@ -1,40 +1,37 @@
-# Hi, I'm Batuhan Çakmak
+# Hey, I'm Batuhan 👋
 
-Computer Engineering student at **Kadir Has University**.
+I'm a **Computer Engineering student at Kadir Has University** who likes turning random ideas into actual projects — usually with a Raspberry Pi, a network switch, too many cables, and at least one thing that refuses to work on the first try.
 
-I'm interested in building practical systems around **cybersecurity, computer networks, Raspberry Pi, IoT and software development**. I enjoy learning by creating projects that combine software with real hardware and network infrastructure.
+I'm especially interested in:
 
----
-
-## About Me
-
-- Computer Engineering student at Kadir Has University
-- Interested in Cybersecurity and Network Engineering
-- Working with Raspberry Pi and Linux-based systems
-- Building IoT and embedded-style projects
-- Learning Python, web technologies and networking
-- Interested in system administration, infrastructure and security
+- Cybersecurity
+- Computer Networks
+- Raspberry Pi
+- IoT
+- Linux
+- Software Development
+- Automating things that probably worked fine manually
 
 ---
 
-## Featured Projects
+## What I'm working on
 
-### Raspberry Pi Smart Mirror
+### Smart Mirror
 
-A smart mirror project built around a **Raspberry Pi 3** and a 24-inch monitor.
+Right now I'm building a smart mirror with a **Raspberry Pi 3** and an old 24-inch monitor.
 
-Planned and implemented features include:
+The goal is to make it show:
 
-- Dynamic time-based greetings
-- Live clock and date
-- Weather information
-- Spotify currently-playing integration
-- Calendar integration
-- Indoor temperature and humidity sensors
+- Dynamic greetings
+- Weather
+- Calendar events
+- Spotify now playing
+- Indoor temperature and humidity
 - Presence detection
-- Automatic monitor wake/sleep
+- Automatic screen wake/sleep
 - LED backlighting
-- Flask-based dashboard
+
+Basically, I had an old monitor and decided it needed a second life.
 
 `Python` `Flask` `JavaScript` `Raspberry Pi` `IoT`
 
@@ -42,22 +39,21 @@ Planned and implemented features include:
 
 ### Physical Raspberry Pi Network Lab
 
-A physical networking lab designed to practice real enterprise networking concepts.
-
-The lab includes:
+I also built a physical networking lab with:
 
 - Aruba 2930F Layer 3 switch
-- Multiple Raspberry Pi nodes
-- VLAN segmentation
+- Multiple Raspberry Pis
+- VLANs
+- DHCP
+- DNS
+- Nginx
 - Inter-VLAN routing
-- DHCP server
-- DNS server
-- Nginx web server
 - SSH management
 - Real client testing
-- Network troubleshooting
 
-Future improvements include firewalling, monitoring, VPN and intrusion detection.
+It started as "I want to learn networking properly" and somehow turned into a small data center on my desk.
+
+Still planning to add more security-focused features like firewalling, VPN, monitoring and IDS/IPS.
 
 `Networking` `Linux` `Raspberry Pi` `VLAN` `DHCP` `DNS`
 
@@ -65,44 +61,45 @@ Future improvements include firewalling, monitoring, VPN and intrusion detection
 
 ### Enterprise Network Lab
 
-A Packet Tracer project created to practice enterprise network design and configuration.
-
-Topics covered:
+I also use Cisco Packet Tracer to build enterprise-style networks and practice:
 
 - VLANs
+- Routing
 - DHCP
 - DNS
-- Static routing
 - OSPF
 - ACLs
-- SSH management
+- SSH
 - Network segmentation
 - Troubleshooting
+
+Because breaking a virtual network is much cheaper than breaking a real one.
 
 `Cisco Packet Tracer` `Networking` `Routing` `ACL`
 
 ---
 
-## Currently Learning
+## Things I enjoy learning
 
 - Cybersecurity
-- Linux
-- Computer Networks
-- Python
-- Raspberry Pi
-- IoT
-- Web Development
 - Network Security
+- Linux
+- Networking
+- Python
+- IoT
+- Raspberry Pi
+- Web Development
+- Infrastructure
 
 ---
 
-## Technologies
+## Tech I currently use
 
 ### Languages
 
 `Python` `JavaScript` `HTML` `CSS`
 
-### Systems & Tools
+### Tools & Systems
 
 `Linux` `Raspberry Pi` `Git` `GitHub` `Flask` `Cisco Packet Tracer`
 
@@ -112,26 +109,21 @@ Topics covered:
 
 ---
 
-## Areas I'm Interested In
+## A bit about how I work
 
-- Cybersecurity
-- Network Security
-- Infrastructure
-- Raspberry Pi
-- IoT
-- Linux Systems
-- Backend Development
-- Automation
+I learn much faster by building things than by only reading about them.
 
----
+So most of my projects start with:
 
-## GitHub
+> "What if I try this?"
 
-I use GitHub mainly to document what I build, track my progress and turn what I learn into practical projects.
+and usually end with:
+
+> "Okay, why is this not pinging?"
 
 ---
 
-### Contact
+## Contact
 
 - GitHub: [BatuhanCakmak4](https://github.com/BatuhanCakmak4)
 - LinkedIn: [Batuhan Çakmak](https://www.linkedin.com/in/batuhan-cakmak4/)
