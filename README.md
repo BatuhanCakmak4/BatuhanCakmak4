@@ -1,6 +1,6 @@
 <!-- Profile Header & Avatar Area -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BatuhanCakmak4/BatuhanCakmak4/main/portrait-ascii.svg" width="160" alt="Batuhan Çakmak Portrait" />
+  <img src="https://raw.githubusercontent.com/BatuhanCakmak4/BatuhanCakmak4/main/assets/portrait-ascii.svg" width="160" alt="Batuhan Çakmak Portrait" />
   <h1>Hi, I'm Batuhan Çakmak 👋</h1>
   <p><b>Computer Engineering Student @ Kadir Has University</b></p>
   
@@ -14,9 +14,9 @@
 
 ---
 
-## 🚀 About Me
+## <img src="https://raw.githubusercontent.com/BatuhanCakmak4/BatuhanCakmak4/main/assets/heading-about.svg" alt="About Me" height="30">
 
-<img src="https://raw.githubusercontent.com/BatuhanCakmak4/BatuhanCakmak4/main/ascii.svg" align="right" width="220" alt="ASCII Art" />
+<img src="https://raw.githubusercontent.com/BatuhanCakmak4/BatuhanCakmak4/main/assets/ascii.svg" align="right" width="220" alt="ASCII Art" />
 
 Computer Engineering student at **Kadir Has University**.
 
@@ -32,7 +32,7 @@ I'm interested in building practical systems around **cybersecurity, computer ne
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## <img src="https://raw.githubusercontent.com/BatuhanCakmak4/BatuhanCakmak4/main/assets/heading-focus.svg" alt="Tech Stack & Tools" height="30">
 
 <div align="center">
 
@@ -65,7 +65,7 @@ I'm interested in building practical systems around **cybersecurity, computer ne
 
 ---
 
-## ⚡ Featured Projects
+## <img src="https://raw.githubusercontent.com/BatuhanCakmak4/BatuhanCakmak4/main/assets/heading-projects.svg" alt="Featured Projects" height="30">
 
 ### 1. 🪞 Raspberry Pi Smart Mirror
 A smart mirror project built around a **Raspberry Pi 3** and a 24-inch monitor.
