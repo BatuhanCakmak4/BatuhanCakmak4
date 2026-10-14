@@ -13,8 +13,6 @@ Currently improving my skills in Python, C, C++, JavaScript, Linux, and networki
 ## Skills
 
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" alt="c++" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" alt="c" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
@@ -22,6 +20,8 @@ Currently improving my skills in Python, C, C++, JavaScript, Linux, and networki
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;
 </p>
 
 ## Projects
@@ -44,9 +44,9 @@ HAN37 is a personal full-stack web application that combines productivity tools 
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=BatuhanCakmak4&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+<img src="https://github-readme-stats.vercel.app/api?username=BatuhanCakmak4&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanCakmak4&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanCakmak4&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BatuhanCakmak4&theme=null" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BatuhanCakmak4&theme=dark" alt="GitHub Streak" />
 
