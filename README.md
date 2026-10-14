@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <div align="center">
   <h1>Hi, I'm Batuhan Çakmak 👋</h1>
-  <p><b>Computer Engineering Student @ Kadir Has University</b></p>
+  <p><b>Computer Engineering Student</b></p>
   
   <p>
     <a href="https://github.com/BatuhanCakmak4"><img src="https://img.shields.io/badge/GitHub-BatuhanCakmak4-181717?style=flat-square&logo=github" alt="GitHub"></a>
@@ -28,7 +28,6 @@ I'm interested in building practical systems around **cybersecurity, computer ne
 - 💡 Learning Python, web technologies and networking
 
 <br clear="right"/>
-
 ---
 
 ## 🛠️ Tech Stack & Tools
