@@ -22,27 +22,18 @@ Currently improving my skills in Python, C, C++, JavaScript, Linux, and networki
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>&nbsp;
-          
-          
-          
 </p>
 
 ## Projects
 
-### physical-raspberryPi-network-lab
+- **Smart Mirror** — Raspberry Pi-based smart mirror with weather, Spotify, calendar, sensors, presence detection, and LED control.
+- **Physical Network Lab** — VLANs, DHCP, DNS, routing, Raspberry Pi servers, and real client testing.
+- **Enterprise Network Lab** — Cisco Packet Tracer project focused on routing, ACLs, VLANs, DHCP, DNS, and troubleshooting.
 
-Physical enterprise-style network lab built with an Aruba 2930F Layer 3 switch, Raspberry Pi infrastructure servers, real client devices, VLAN segmentation, DHCP relay, internal DNS, and Nginx.
+## Current Focus
 
-[View Project](https://github.com/BatuhanCakmak4/physical-raspberryPi-network-lab)
-
----
-
-### han37-personal-iot-platform
-
-HAN37 is a personal full-stack web application that combines productivity tools with physical Arduino sensor integration. The project is designed as a central workspace for managing daily activities while also experimenting with web development, authentication, databases, and IoT communication in a single system.
-
-[View Project](https://github.com/BatuhanCakmak4/han37-personal-iot-platform)
+Learning more about **cybersecurity, Linux, networking, and practical system design** while continuing to build hands-on projects.
 
 ---
 
-
+[GitHub](https://github.com/BatuhanCakmak4)
