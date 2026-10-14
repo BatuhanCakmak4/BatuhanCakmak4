@@ -60,12 +60,3 @@ I'm interested in building practical systems around **cybersecurity, computer ne
 
 ---
 
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=BatuhanCakmak4&show_icons=true&theme=radical&hide_border=true" alt="Batuhan's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanCakmak4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=BatuhanCakmak4&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </p>
-</div>
