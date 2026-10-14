@@ -18,36 +18,40 @@ I'm interested in building practical systems around **cybersecurity, computer ne
 
 
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
-<div align="center">
-
-### 💻 Languages
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-### ⚙️ Systems, Tools & Testing
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-### 🌐 Networking & Security Tools
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=network&logoColor=white" />
-<img src="https://img.shields.io/badge/VLAN-%23007ACC?style=for-the-badge&logo=cache&logoColor=white" />
-<img src="https://img.shields.io/badge/DHCP-%23FF6F00?style=for-the-badge&logo=server&logoColor=white" />
-<img src="https://img.shields.io/badge/DNS-%234CAF50?style=for-the-badge&logo=domain&logoColor=white" />
-<img src="https://img.shields.io/badge/SSH-121011?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>Languages</b><br><br>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <b>Systems & Tools</b><br><br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <b>Networking & Security</b><br><br>
+      <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+      <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square&logo=network&logoColor=white" />
+      <img src="https://img.shields.io/badge/VLAN-%23007ACC?style=flat-square&logo=cache&logoColor=white" />
+      <img src="https://img.shields.io/badge/DHCP-%23FF6F00?style=flat-square&logo=server&logoColor=white" />
+      <img src="https://img.shields.io/badge/DNS-%234CAF50?style=flat-square&logo=domain&logoColor=white" />
+      <img src="https://img.shields.io/badge/SSH-121011?style=flat-square&logo=gnuprivacyguard&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 
 
