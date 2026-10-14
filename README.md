@@ -1,6 +1,6 @@
 <!-- Profile Header & Avatar Area -->
 <div align="center">
-  <img src="portrait-ascii.svg" width="160" alt="Batuhan Çakmak Portrait" />
+  <img src="https://raw.githubusercontent.com/BatuhanCakmak4/BatuhanCakmak4/main/portrait-ascii.svg" width="160" alt="Batuhan Çakmak Portrait" />
   <h1>Hi, I'm Batuhan Çakmak 👋</h1>
   <p><b>Computer Engineering Student @ Kadir Has University</b></p>
   
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-<img src="ascii.svg" align="right" width="220" alt="ASCII Art" />
+<img src="https://raw.githubusercontent.com/BatuhanCakmak4/BatuhanCakmak4/main/ascii.svg" align="right" width="220" alt="ASCII Art" />
 
 Computer Engineering student at **Kadir Has University**.
 
@@ -37,6 +37,8 @@ I'm interested in building practical systems around **cybersecurity, computer ne
 <div align="center">
 
 ### 💻 Languages
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -48,9 +50,11 @@ I'm interested in building practical systems around **cybersecurity, computer ne
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
-### 🌐 Networking
+### 🌐 Networking & Security Tools
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=network&logoColor=white" />
 <img src="https://img.shields.io/badge/VLAN-%23007ACC?style=for-the-badge&logo=cache&logoColor=white" />
 <img src="https://img.shields.io/badge/DHCP-%23FF6F00?style=for-the-badge&logo=server&logoColor=white" />
@@ -85,7 +89,7 @@ A Packet Tracer project created to practice enterprise network design and config
 * 🔒 **Cybersecurity & Network Security**
 * 🐧 **Linux Systems Administration & Infrastructure**
 * 🥧 **Raspberry Pi & IoT Projects**
-* 🐍 **Python & Backend Development**
+* 🐍 **C/C++, Python & Backend Development**
 
 ---
 
