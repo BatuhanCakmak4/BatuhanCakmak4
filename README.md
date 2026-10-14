@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<div align="center">
+<div>
   <h1>Hi, I'm Batuhan Çakmak 👋</h1>
 </div>
 
