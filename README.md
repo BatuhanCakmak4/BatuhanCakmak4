@@ -28,7 +28,7 @@ I'm interested in building practical systems around **cybersecurity, computer ne
 - 💡 Learning Python, web technologies and networking
 
 <br clear="right"/>
----
+
 
 ## 🛠️ Tech Stack & Tools
 
