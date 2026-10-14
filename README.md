@@ -1,10 +1,7 @@
 <!-- Profile Header -->
 <div align="center">
   <h1>Hi, I'm Batuhan Çakmak 👋</h1>
-  <p><b>Computer Engineering Student @ Kadir Has University</b></p>
 </div>
-
-<br>
 
 ---
 
