@@ -1,6 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="220" viewBox="0 0 480 220">
-<rect width="100%" height="100%" rx="18" fill="#0d1117" stroke="#30363d"/>
-<text x="26" y="38" fill="#8b949e" font-family="monospace" font-size="15">STREAKS</text>
-<text x="26" y="88" fill="#f0f6fc" font-family="monospace" font-size="18">Will be generated after first workflow run</text>
-<text x="26" y="116" fill="#8b949e" font-family="monospace" font-size="14">No external stat-card service required</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="230" viewBox="0 0 560 230">
+<rect x="1" y="1" width="558" height="228" rx="18" fill="#0d1117" stroke="#30363d"/>
+<text x="28" y="37" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="15">STREAKS</text>
+<text x="28" y="103" fill="#f0f6fc" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="44">1</text>
+<text x="28" y="130" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="15">current streak / days</text>
+<line x1="280" y1="58" x2="280" y2="190" stroke="#30363d"/>
+<text x="310" y="103" fill="#f0f6fc" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="44">1</text>
+<text x="310" y="130" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="15">longest streak / days</text>
+<text x="28" y="190" fill="#3fb950" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="15">public activity, whole UTC days</text>
 </svg>
