@@ -14,10 +14,9 @@ I'm interested in building practical systems around **cybersecurity, computer ne
 - 🥧 Working with Raspberry Pi and Linux-based systems
 - 🔌 Building IoT and embedded-style projects
 - 💡 Learning Python, web technologies and networking
-
 <br clear="right"/>
 
----
+
 
 ## 🛠️ Tech Stack & Tools
 
