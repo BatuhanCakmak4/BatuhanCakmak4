@@ -1,29 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330">
-<rect width="100%" height="100%" rx="24" fill="#0d1117" stroke="#30363d"/>
-<text x="36" y="36" fill="#8b949e" font-family="monospace" font-size="16">~/BatuhanCakmak4/profile</text>
-<text x="36" y="66" fill="#7ee787" font-family="monospace" font-size="10.7" xml:space="preserve">                               .  .-</text>
-<text x="36" y="78.2" fill="#7ee787" font-family="monospace" font-size="10.7" xml:space="preserve">                           .:+#%**%@**+-:.</text>
-<text x="36" y="90.4" fill="#7ee787" font-family="monospace" font-size="10.7" xml:space="preserve">                     .-=*#%%@@@@@@@@@@@@@%%#+:</text>
-<text x="36" y="102.60000000000001" fill="#7ee787" font-family="monospace" font-size="10.7" xml:space="preserve">                    :#@@@@@@@@@@@@@@@@@@@@@@@%#*-</text>
-<text x="36" y="114.80000000000001" fill="#7ee787" font-family="monospace" font-size="10.7" xml:space="preserve">                  :#@@@@@@@@@@@@@@%@@@@@@@@@@@@@%:</text>
-<text x="36" y="127.00000000000001" fill="#7ee787" font-family="monospace" font-size="10.7" xml:space="preserve">                 -%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%:</text>
-<text x="36" y="139.20000000000002" fill="#7ee787" font-family="monospace" font-size="10.7" xml:space="preserve">                +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#.</text>
-<text x="36" y="151.4" fill="#7ee787" font-family="monospace" font-size="10.7" xml:space="preserve">                %@@@@@@@@@@@@%%%@@@%%%@@@@@@@@@@@@@+</text>
-<text x="36" y="163.6" fill="#7ee787" font-family="monospace" font-size="10.7" xml:space="preserve">               .%@@@@@@@%#*==---------==+#%@@@@@@@@+</text>
-<text x="36" y="175.79999999999998" fill="#7ee787" font-family="monospace" font-size="10.7" xml:space="preserve">               .%@@@@@%*+-:.............:-+#%@@@@@@-</text>
-<text x="36" y="187.99999999999997" fill="#7ee787" font-family="monospace" font-size="10.7" xml:space="preserve">                %@@@@%+-::..............::-=+#@@@@%.</text>
-<text x="36" y="200.19999999999996" fill="#7ee787" font-family="monospace" font-size="10.7" xml:space="preserve">                +@%%*=-::...............::--=+*%@@*</text>
-<text x="36" y="212.39999999999995" fill="#7ee787" font-family="monospace" font-size="10.7" xml:space="preserve">                :%#=--------::.......:::-==+===+#%:</text>
-<text x="36" y="224.59999999999994" fill="#7ee787" font-family="monospace" font-size="10.7" xml:space="preserve">                .**--=***###%%#*-..:*%%%%#####+=**</text>
-<text x="36" y="236.79999999999993" fill="#7ee787" font-family="monospace" font-size="10.7" xml:space="preserve">              .+-++---=+*******+=..=**+++++*+++=*+==</text>
-<text x="36" y="248.99999999999991" fill="#7ee787" font-family="monospace" font-size="10.7" xml:space="preserve">              :=-==--:=+*+*#++=--.:=+++*%**%*+==++++</text>
-<text x="36" y="261.19999999999993" fill="#7ee787" font-family="monospace" font-size="10.7" xml:space="preserve">               ==---:::::::::::-:.:===-=====--==+++:</text>
-<text x="36" y="273.3999999999999" fill="#7ee787" font-family="monospace" font-size="10.7" xml:space="preserve">               -==--::........:-:::==-::::..:-==+*-</text>
-<text x="570" y="105" fill="#f0f6fc" font-family="monospace" font-size="42">Batuhan Çakmak</text>
-<text x="570" y="142" fill="#8b949e" font-family="monospace" font-size="18">Mechanical &amp; International Project Engineering Student</text>
-<text x="570" y="175" fill="#8b949e" font-family="monospace" font-size="18">Raspberry Pi · Networking · IoT · Product Development</text>
-<line x1="570" y1="198" x2="1038" y2="198" stroke="#30363d"/>
-<text x="570" y="228" fill="#3fb950" font-family="monospace" font-size="17">building systems that actually run</text>
-<text x="570" y="258" fill="#f0f6fc" font-family="monospace" font-size="15">RWU student · mechatronics background · automotive &amp; embedded systems</text>
-<text x="570" y="286" fill="#8b949e" font-family="monospace" font-size="15">featured: smart mirror · physical raspberry pi lab · packet tracer enterprise lab</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="405" viewBox="0 0 1180 405">
+<rect x="1" y="1" width="1178" height="403" rx="24" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<text x="34" y="38" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, monospace" font-size="17">~/BatuhanCakmak4/profile</text>
+<text x="34" y="66.0" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">...........                                                                     ..........</text>
+<text x="34" y="77.6" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">..........                                      .`                                ........</text>
+<text x="34" y="89.2" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">..........                             .:=sc:::*%@c.`:`                            .....</text>
+<text x="34" y="100.8" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">....                              .``:*%@@@@@@@@@@@%%@%s*+=:`.</text>
+<text x="34" y="112.4" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">.                          :``-+s#%@@@@@@@@@@@@@@@@@@@@@@@@@%##*=:.</text>
+<text x="34" y="124.0" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">                          :%#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%s=:``</text>
+<text x="34" y="135.6" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">                        `c%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#`</text>
+<text x="34" y="147.2" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">                      =#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@s.</text>
+<text x="34" y="158.8" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">                     +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@s`</text>
+<text x="34" y="170.4" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">                   `c@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@s`</text>
+<text x="34" y="182.0" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">                  -%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@s.</text>
+<text x="34" y="193.6" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">                 -%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.</text>
+<text x="34" y="205.2" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">                 +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=</text>
+<text x="34" y="216.8" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">                 *@@@@@@@@@@@@@@@@@@@%%%###%%%%%%%##%%%%@@@@@@@@@@@@@@@@@@@@=</text>
+<text x="34" y="228.4" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">                 s@@@@@@@@@@@@@@%#s*++====--==-----====+**c#%@@@@@@@@@@@@@@@=</text>
+<text x="34" y="240.0" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">                 c@@@@@@@@@@@%%ssc+--::::::::::::::-------=+c#%@@@@@@@@@@@@%`</text>
+<text x="34" y="251.6" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">                 c@@@@@@@@@%#c*++=--::::::::::::::::::::--=++*s#%@@@@@@@@@@c</text>
+<text x="34" y="263.2" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">                 *@@@@@@@@%#c+===---::::::::-::::--::::---==++*cs#%@@@@@@@@=</text>
+<text x="34" y="274.8" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">                 `@@@@@@@%#c+====----::::::-----::::-----===+++*ccs%@@@@@@%`</text>
+<text x="34" y="286.4" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">                  s@@@%#sc+++===--:::::```:::---::::::::--===++**ccs#%@@@@*</text>
+<text x="34" y="298.0" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">                  -@%%#*+++===-----::```````:::::::``:::---==+++**cccs#@@%.</text>
+<text x="34" y="309.6" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">                   #%%*++++cs#%%@@%%%%#ssc+-::::::-+cs###%%%@@@%%#scccc%@+</text>
+<text x="34" y="321.2" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">                .:`=%#++++c#sccss#%%%%@@@@@%*=-:-=c@@@@@@@%%#####%%#ccc%#</text>
+<text x="34" y="332.8" fill="#7ee787" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="8.7" xml:space="preserve">               `sc*c%s+++**++***ccccccssssssc=::-*##sscccc****ccccssscc%c=cc:</text>
+<text x="600" y="105" fill="#f0f6fc" font-family="JetBrains Mono, Liberation Mono, monospace" font-size="46">Batuhan Çakmak</text>
+<text x="600" y="148" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, monospace" font-size="19">Computer Engineering Student</text>
+<text x="600" y="179" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, monospace" font-size="19">Kadir Has University</text>
+<line x1="600" y1="208" x2="1124" y2="208" stroke="#30363d"/>
+<text x="600" y="246" fill="#3fb950" font-family="JetBrains Mono, Liberation Mono, monospace" font-size="18">Cybersecurity · Networking · Raspberry Pi</text>
+<text x="600" y="278" fill="#3fb950" font-family="JetBrains Mono, Liberation Mono, monospace" font-size="18">IoT · Software Development</text>
+<text x="600" y="326" fill="#f0f6fc" font-family="JetBrains Mono, Liberation Mono, monospace" font-size="16">building practical systems, learning by doing</text>
+<text x="600" y="356" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, monospace" font-size="15">networks · linux · security · embedded projects</text>
 </svg>

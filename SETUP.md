@@ -1,27 +1,48 @@
 # Setup
 
-This repository must be named exactly:
+This package is prepared for the profile repository:
 
-BatuhanCakmak4
+`BatuhanCakmak4/BatuhanCakmak4`
 
-## Upload steps
+## Replace your existing profile repository
 
-1. Create a **new public repository** on GitHub named **BatuhanCakmak4**.
-2. Upload all files from this folder into that repository.
-3. After the first push, open the repository on GitHub.
-4. Go to **Actions**.
-5. Select **refresh profile graphics**.
-6. Click **Run workflow**.
+Copy all files from this package into your existing local
+`BatuhanCakmak4` profile repository, then run:
 
-That first run will replace the placeholder cards with real stats generated from your public GitHub data.
+```bash
+git add .
+git commit -m "Redesign self-generating profile"
+git push
+```
 
-## Notes
+## First stats generation
 
-- No personal access token is required.
-- The workflow uses GitHub's built-in `GITHUB_TOKEN`.
-- The top banner already includes your portrait generated from the uploaded photo.
-- If the profile README does not appear immediately on your profile page, edit the README once from the GitHub web UI and save it.
+On GitHub:
 
-## If you already have a repository called BatuhanCakmak4
+1. Open `BatuhanCakmak4/BatuhanCakmak4`.
+2. Open **Actions**.
+3. Choose **refresh profile graphics**.
+4. Click **Run workflow**.
 
-Open it and replace its contents with the files from this package.
+The first successful run creates and inserts the real activity graphics into
+the README. Until then, the README intentionally shows no fake placeholder cards.
+
+Afterwards the workflow runs daily at 05:17 UTC and only commits when the
+generated output changes.
+
+## Correct profile information used
+
+- Batuhan Çakmak
+- Computer Engineering Student
+- Kadir Has University
+- Cybersecurity
+- Networking
+- Raspberry Pi
+- IoT
+- Software Development
+
+## Privacy
+
+Your original portrait photo is NOT included in this ZIP. Only the generated
+ASCII SVG is included, so the original photo will not be accidentally committed
+to the public profile repository.
