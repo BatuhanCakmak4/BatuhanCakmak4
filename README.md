@@ -1,129 +1,52 @@
-# Hey, I'm Batuhan 👋
+# Hello 👋, I'm Batuhan Çakmak
+### Computer Engineering Student
 
-I'm a **Computer Engineering student at Kadir Has University** who likes turning random ideas into actual projects — usually with a Raspberry Pi, a network switch, too many cables, and at least one thing that refuses to work on the first try.
+I'm a Computer Engineering student at Kadir Has University, interested in cybersecurity, networking, Raspberry Pi, IoT, and software development.
 
-I'm especially interested in:
+I like learning by building things, breaking them, fixing them, and figuring out why they stopped working in the first place.
 
-- Cybersecurity
-- Computer Networks
-- Raspberry Pi
-- IoT
-- Linux
-- Software Development
-- Automating things that probably worked fine manually
+Currently improving my skills in Python, C, C++, JavaScript, Linux, and networking while working on hands-on projects that mix software, hardware, and infrastructure
 
----
+## Contact Me
+<p><a href="https://www.linkedin.com/in/batuhan-cakmak4/?isSelfProfile=true" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 
-## What I'm working on
+## Skills
 
-### Smart Mirror
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" alt="c++" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" alt="c" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>&nbsp;
+</p>
 
-Right now I'm building a smart mirror with a **Raspberry Pi 3** and an old 24-inch monitor.
+## Projects
 
-The goal is to make it show:
+### physical-raspberryPi-network-lab
 
-- Dynamic greetings
-- Weather
-- Calendar events
-- Spotify now playing
-- Indoor temperature and humidity
-- Presence detection
-- Automatic screen wake/sleep
-- LED backlighting
+Physical enterprise-style network lab built with an Aruba 2930F Layer 3 switch, Raspberry Pi infrastructure servers, real client devices, VLAN segmentation, DHCP relay, internal DNS, and Nginx.
 
-Basically, I had an old monitor and decided it needed a second life.
-
-`Python` `Flask` `JavaScript` `Raspberry Pi` `IoT`
+[View Project](https://github.com/BatuhanCakmak4/physical-raspberryPi-network-lab)
 
 ---
 
-### Physical Raspberry Pi Network Lab
+### han37-personal-iot-platform
 
-I also built a physical networking lab with:
+HAN37 is a personal full-stack web application that combines productivity tools with physical Arduino sensor integration. The project is designed as a central workspace for managing daily activities while also experimenting with web development, authentication, databases, and IoT communication in a single system.
 
-- Aruba 2930F Layer 3 switch
-- Multiple Raspberry Pis
-- VLANs
-- DHCP
-- DNS
-- Nginx
-- Inter-VLAN routing
-- SSH management
-- Real client testing
-
-It started as "I want to learn networking properly" and somehow turned into a small data center on my desk.
-
-Still planning to add more security-focused features like firewalling, VPN, monitoring and IDS/IPS.
-
-`Networking` `Linux` `Raspberry Pi` `VLAN` `DHCP` `DNS`
+[View Project](https://github.com/BatuhanCakmak4/han37-personal-iot-platform)
 
 ---
 
-### Enterprise Network Lab
+## GitHub Stats
 
-I also use Cisco Packet Tracer to build enterprise-style networks and practice:
+<img src="https://github-readme-stats.vercel.app/api?username=BatuhanCakmak4&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
 
-- VLANs
-- Routing
-- DHCP
-- DNS
-- OSPF
-- ACLs
-- SSH
-- Network segmentation
-- Troubleshooting
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanCakmak4&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
 
-Because breaking a virtual network is much cheaper than breaking a real one.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BatuhanCakmak4&theme=null" alt="GitHub Streak" />
 
-`Cisco Packet Tracer` `Networking` `Routing` `ACL`
-
----
-
-## Things I enjoy learning
-
-- Cybersecurity
-- Network Security
-- Linux
-- Networking
-- Python
-- IoT
-- Raspberry Pi
-- Web Development
-- Infrastructure
-
----
-
-## Tech I currently use
-
-### Languages
-
-`Python` `JavaScript` `HTML` `CSS`
-
-### Tools & Systems
-
-`Linux` `Raspberry Pi` `Git` `GitHub` `Flask` `Cisco Packet Tracer`
-
-### Networking
-
-`TCP/IP` `VLAN` `DHCP` `DNS` `Routing` `SSH` `ACL`
-
----
-
-## A bit about how I work
-
-I learn much faster by building things than by only reading about them.
-
-So most of my projects start with:
-
-> "What if I try this?"
-
-and usually end with:
-
-> "Okay, why is this not pinging?"
-
----
-
-## Contact
-
-- GitHub: [BatuhanCakmak4](https://github.com/BatuhanCakmak4)
-- LinkedIn: [Batuhan Çakmak](https://www.linkedin.com/in/batuhan-cakmak4/)
