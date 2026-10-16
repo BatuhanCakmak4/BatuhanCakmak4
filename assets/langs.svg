@@ -2,28 +2,28 @@
 <rect x="1" y="1" width="558" height="263" rx="18" fill="#0d1117" stroke="#30363d"/>
 <text x="28" y="37" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="15">TOP LANGUAGES / PUBLIC OWNED REPOS</text>
 <text x="28" y="70" fill="#f0f6fc" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="15">CSS</text>
-<text x="526" y="70" text-anchor="end" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="14">30.9%</text>
+<text x="526" y="70" text-anchor="end" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="14">28.9%</text>
 <rect x="28" y="80" width="498" height="7" rx="3.5" fill="#21262d"/>
-<rect x="28" y="80" width="153.7" height="7" rx="3.5" fill="#58a6ff"/>
+<rect x="28" y="80" width="143.9" height="7" rx="3.5" fill="#58a6ff"/>
 <text x="28" y="102" fill="#f0f6fc" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="15">Python</text>
-<text x="526" y="102" text-anchor="end" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="14">22.0%</text>
+<text x="526" y="102" text-anchor="end" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="14">27.4%</text>
 <rect x="28" y="112" width="498" height="7" rx="3.5" fill="#21262d"/>
-<rect x="28" y="112" width="109.7" height="7" rx="3.5" fill="#58a6ff"/>
+<rect x="28" y="112" width="136.7" height="7" rx="3.5" fill="#58a6ff"/>
 <text x="28" y="134" fill="#f0f6fc" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="15">JavaScript</text>
-<text x="526" y="134" text-anchor="end" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="14">20.3%</text>
+<text x="526" y="134" text-anchor="end" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="14">18.7%</text>
 <rect x="28" y="144" width="498" height="7" rx="3.5" fill="#21262d"/>
-<rect x="28" y="144" width="101.3" height="7" rx="3.5" fill="#58a6ff"/>
+<rect x="28" y="144" width="92.9" height="7" rx="3.5" fill="#58a6ff"/>
 <text x="28" y="166" fill="#f0f6fc" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="15">HTML</text>
-<text x="526" y="166" text-anchor="end" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="14">16.7%</text>
+<text x="526" y="166" text-anchor="end" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="14">15.6%</text>
 <rect x="28" y="176" width="498" height="7" rx="3.5" fill="#21262d"/>
-<rect x="28" y="176" width="83.3" height="7" rx="3.5" fill="#58a6ff"/>
+<rect x="28" y="176" width="77.9" height="7" rx="3.5" fill="#58a6ff"/>
 <text x="28" y="198" fill="#f0f6fc" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="15">C++</text>
-<text x="526" y="198" text-anchor="end" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="14">5.3%</text>
+<text x="526" y="198" text-anchor="end" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="14">4.9%</text>
 <rect x="28" y="208" width="498" height="7" rx="3.5" fill="#21262d"/>
-<rect x="28" y="208" width="26.1" height="7" rx="3.5" fill="#58a6ff"/>
+<rect x="28" y="208" width="24.4" height="7" rx="3.5" fill="#58a6ff"/>
 <text x="28" y="230" fill="#f0f6fc" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="15">C</text>
-<text x="526" y="230" text-anchor="end" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="14">4.8%</text>
+<text x="526" y="230" text-anchor="end" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="14">4.5%</text>
 <rect x="28" y="240" width="498" height="7" rx="3.5" fill="#21262d"/>
-<rect x="28" y="240" width="23.8" height="7" rx="3.5" fill="#58a6ff"/>
+<rect x="28" y="240" width="22.2" height="7" rx="3.5" fill="#58a6ff"/>
 <text x="28" y="246" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="13">6 public owned repositories scanned</text>
 </svg>
