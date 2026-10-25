@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="230" viewBox="0 0 560 230">
 <rect x="1" y="1" width="558" height="228" rx="18" fill="#0d1117" stroke="#30363d"/>
 <text x="28" y="37" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="15">STREAKS</text>
-<text x="28" y="103" fill="#f0f6fc" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="44">0</text>
+<text x="28" y="103" fill="#f0f6fc" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="44">2</text>
 <text x="28" y="130" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="15">current streak / days</text>
 <line x1="280" y1="58" x2="280" y2="190" stroke="#30363d"/>
 <text x="310" y="103" fill="#f0f6fc" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="44">4</text>
