@@ -25,5 +25,5 @@
 <text x="526" y="230" text-anchor="end" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="14">2.8%</text>
 <rect x="28" y="240" width="498" height="7" rx="3.5" fill="#21262d"/>
 <rect x="28" y="240" width="13.8" height="7" rx="3.5" fill="#58a6ff"/>
-<text x="28" y="246" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="13">7 public owned repositories scanned</text>
+<text x="28" y="246" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="13">8 public owned repositories scanned</text>
 </svg>
