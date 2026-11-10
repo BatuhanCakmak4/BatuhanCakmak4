@@ -25,9 +25,9 @@
 <rect x="370" y="196.0" width="14" height="0.0" rx="2" fill="#3fb950"/>
 <rect x="388" y="196.0" width="14" height="0.0" rx="2" fill="#3fb950"/>
 <rect x="406" y="148.0" width="14" height="48.0" rx="2" fill="#3fb950"/>
-<rect x="424" y="188.9" width="14" height="7.1" rx="2" fill="#3fb950"/>
-<rect x="442" y="164.0" width="14" height="32.0" rx="2" fill="#3fb950"/>
-<rect x="460" y="160.4" width="14" height="35.6" rx="2" fill="#3fb950"/>
+<rect x="424" y="181.8" width="14" height="14.2" rx="2" fill="#3fb950"/>
+<rect x="442" y="156.9" width="14" height="39.1" rx="2" fill="#3fb950"/>
+<rect x="460" y="174.7" width="14" height="21.3" rx="2" fill="#3fb950"/>
 <rect x="478" y="196.0" width="14" height="0.0" rx="2" fill="#3fb950"/>
 <text x="532" y="128" text-anchor="end" fill="#8b949e" font-family="JetBrains Mono, Liberation Mono, DejaVu Sans Mono, monospace" font-size="14">18 active days</text>
 </svg>
